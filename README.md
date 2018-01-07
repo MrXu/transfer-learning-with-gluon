@@ -1,5 +1,7 @@
 # transfer-learning-with-gluon
-This project shows how to apply transfer learning with MXNet Gluon
+This project shows how to apply transfer learning with MXNet Gluon, on the `husky or akita` classification problem.
+
+![Husky or Akita](https://github.com/MrXu/transfer-learning-with-gluon/blob/master/vs.jpg)
 
 ## Prerequisite 
 1. install MXNet: `pip install mxnet`
