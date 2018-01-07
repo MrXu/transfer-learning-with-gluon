@@ -21,4 +21,4 @@ This project provides the simple guidance to apply transfer learning.
 
 Users are expected to gather their own dataset and follow the notebooks.
 
-For more details, please refer to this post: 
+For more details, please refer to this [post](https://medium.com/@weixu/transfer-learning-with-mxnet-gluon-8203005afafe)
